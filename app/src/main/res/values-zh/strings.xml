@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">去你的科大讯飞 AI 学习机 by Keritial</string>
-    <string name="xposed_description">恢复包管理安装程序正常的行为。</string>
+    <string name="app_name">去你的科大讯飞 AI 学习机</string>
+    <string name="xposed_description">恢复包管理安装程序等 Android 组件正常的行为。</string>
 </resources>

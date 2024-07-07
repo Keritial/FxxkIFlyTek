@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "krtl.xposed.iflytekt10"
+    namespace = "krtl.xposed.iflytek"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "krtl.xposed.iflytekt10"
+        applicationId = "krtl.xposed.iflytek"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
-        versionName = "v1.0.0-alpha.1"
+        versionName = "v1.0.0-alpha.2"
 
 //        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 //        vectorDrawables {

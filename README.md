@@ -1,6 +1,10 @@
-# Fuck IFlyTek T10 AI Learning Machine
+# Fuck IFlyTek AI Learning Machine
 
-Restores the normal behaviour of Package Installer.
+Restore the normal behavior of the Android components, e.g., Package Installer.
+
+## App scope
+
+- Package Installer
 
 ## License
 

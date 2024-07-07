@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Fuck IFlyTek T10 AI Learning Machine</string>
-    <string name="xposed_description">Restore the normal behaviour of Package Installer.</string>
+    <string name="app_name">Fuck IFlyTek AI Learning Machine</string>
+    <string name="xposed_description">Restore normal behaviours of Android components, e.g., Package Installer.</string>
 </resources>
